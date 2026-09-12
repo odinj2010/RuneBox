@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -16,6 +16,7 @@ dist/
 *.spec.bak
 
 # IDE & Gemini metadata
+.agents/
 .gemini/
 .idea/
 .vscode/
