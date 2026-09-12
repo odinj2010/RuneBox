@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec.bak
+
+# IDE & Gemini metadata
+.gemini/
+.idea/
+.vscode/
+*.swp
+*~
